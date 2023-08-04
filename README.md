@@ -3,7 +3,7 @@
 
  A Tool Assisted Gameplay project using AutoHotKey for recording and executing keystrokes.
 
- Prerequisites
+ ## Prerequisites
  Before using this project, make sure you have AutoHotKey V1 installed on your system. You can download it from the official website: https://www.autohotkey.com
 
  ## How to Use
