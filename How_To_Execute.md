@@ -33,6 +33,21 @@
 
 This project may receive updates in the future based on user feedback and demand. Mouse movement recording and execution might be added in the next update. If you have any suggestions or requests, feel free to open an issue or submit a pull request.
 
+## ⚠️ Disclaimer ⚠️
+
+**WARNING:** T.A.G-ToolAssistedGameplay (T.A.G) is a powerful tool designed for legitimate uses in games and applications that allow automation of inputs. However, it is essential to understand and acknowledge the potential risks involved.
+
+1. **Use at Your Own Risk:** The usage of T.A.G is at your own risk. I, [Nikola Džoni Glavinić], the creator of this project, and ChatGPT from OpenAI, who provided explanations, shall not be held responsible for any consequences, including but not limited to bans, penalties, or any other actions taken against your computer, account, or access.
+
+2. **No Malicious Intent:** T.A.G is intended for good purposes only and is not developed or intended for any malicious activities or unfair advantages in any application, including games.
+
+3. **Concerns and Security:** If you have any concerns about the security or safety of using T.A.G, please raise an issue in the Pull Requests section of this repository. I will be prompt to address and investigate any reported issues.
+
+4. **Online Game Use:** It is crucial to understand that using T.A.G as macros for online games or any software that prohibits automation may lead to account bans or penalties. It is your responsibility to abide by the terms of service and rules of the software or game you are using.
+
+By using T.A.G-ToolAssistedGameplay, you acknowledge and agree to the above disclaimer. It is advised to use T.A.G responsibly and legally, respecting the rules and terms of the applications and games you interact with.
+
+
 ## Credits
 
 - Original Project by [Nikola Džoni Glavinić]
