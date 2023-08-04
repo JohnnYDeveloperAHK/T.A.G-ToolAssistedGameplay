@@ -6,7 +6,15 @@
  ## Prerequisites
  Before using this project, make sure you have AutoHotKey V1 installed on your system. You can download it from the official website: https://www.autohotkey.com
 
+ 
+ ## New Instructions on How to Use
+ 1. Begin by following the first three steps outlined below:
+  
+ 2. For detailed and easier instructions on how to execute the T.A.G-ToolAssistedGameplay project, please refer to the `How_To_Execute.md` file. This comprehensive 
+    guide will walk you through every aspect of the process with ease and clarity. 😊
+
  ## How to Use
+    
  1. Download and install AutoHotKey V1 from the official website: https://www.autohotkey.com
 
  2. Clone or download this repository to your computer. `Press on the Releases Tab on the Center Right Portion of your screen and download the repository`
@@ -14,17 +22,13 @@
  3. Navigate to the "T.A.G-ToolAssistedGameplay" folder, which contains all the necessary files.
 
  4. Inside the folder, you will find three subfolders:
-     - Calibration Data: Contains instances of AutoHotKey scripts used for calibration. Double-click on each instance to run it. Once all instances are running, press F1 to activate calibration. The instances will record the inputs with precise timing.
-     - Executed Instances: Contains instances of AutoHotKey scripts used for executing the recorded keystrokes. Manually add the recorded keystrokes from the calibration text documents to each script. Double-click on each instance to run it. The scripts will execute the recorded keystrokes.
-     - List.keys: Contains instances of AutoHotKey scripts used for recording the keystrokes. Double-click on each instance to run it. The scripts will record the key and mouse inputs.
+     - Calibration Data: Contains instances of AutoHotKey scripts used for calibration. ~~Double-click on each instance to run it~~. Once all instances are running, press F1 to activate calibration. The instances will record the inputs with precise timing.
+     - Executed Instances: Contains instances of AutoHotKey scripts used for executing the recorded keystrokes. Manually add the recorded keystrokes from the calibration text documents to each script. ~~Double-click on each instance to run it~~. The scripts will execute the recorded keystrokes.
+     - List.keys: Contains instances of AutoHotKey scripts used for recording the keystrokes. ~~Double-click on each instance to run it~~. The scripts will record the key and mouse inputs.
 
  5. For a more convenient option, use the "Calibrator.Recorder.ahk" inside the "T.A.G" folder. This script runs all the instances required for recording the keystrokes in the "Calibration Data" folder. Simply execute the "Calibrator.Recorder.ahk", and it will handle running the calibration instances for you.
 
  6. Follow the instructions in each subfolder to calibrate, record, and execute the keystrokes according to your desired actions.
-
-    ## New Instructions
-
-    Please Read the `How_To_Execute.md` , this will explain everything in great detail with ease. 😊
 
     ## ⚠️ Disclaimer ⚠️
 
