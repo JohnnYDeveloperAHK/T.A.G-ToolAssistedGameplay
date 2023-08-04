@@ -7,7 +7,9 @@
 
 4. Navigate to the "List.keys" folder, where you will find text documents with recorded functions.
 
-5. Open each text document and delete the first "Sleep" function (e.g., "Sleep, 768548"). This step is necessary due to an issue with AutoHotKey.
+ **This issue has been addressed, Please refer to the Issues tab for the fix.**
+
+5. ~~Open each text document and delete the first "Sleep" function (e.g., "Sleep, 768548"). This step is necessary due to an issue with AutoHotKey.~~
 
 6. Copy the remaining code from each text document.
 
