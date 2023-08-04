@@ -16,6 +16,4 @@ How to Use:
 4. Execute "T.A.G Executer.ahk" to play back the recorded actions.
 
 Notes:
-- Ensure proper calibration for accurate recording and execution.
 - Use the appropriate hotkeys and configurations for the desired actions.
-- Save the calibration text documents in the main folder before using the executer instances.
