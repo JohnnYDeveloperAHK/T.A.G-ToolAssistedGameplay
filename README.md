@@ -1,14 +1,15 @@
 # T.A.G-ToolAssistedGameplay![t a g_image_background](https://github.com/JohnnYDeveloperAHK/T.A.G-ToolAssistedGameplay/assets/11061707/190a5f1c-c874-4a36-b834-73d5488e9ad4)
+## Quick Description
 
  A Tool Assisted Gameplay project using AutoHotKey for recording and executing keystrokes.
 
  Prerequisites
  Before using this project, make sure you have AutoHotKey V1 installed on your system. You can download it from the official website: https://www.autohotkey.com
 
- How to Use
+ ## How to Use
  1. Download and install AutoHotKey V1 from the official website: https://www.autohotkey.com
 
- 2. Clone or download this repository to your computer.
+ 2. Clone or download this repository to your computer. `Press on the Releases Tab on the Center Right Portion of your screen and download the repository`
 
  3. Navigate to the "T.A.G-ToolAssistedGameplay" folder, which contains all the necessary files.
 
