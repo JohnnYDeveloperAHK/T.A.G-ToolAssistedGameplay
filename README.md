@@ -29,7 +29,7 @@
 
 **WARNING:** T.A.G-ToolAssistedGameplay (T.A.G) is a powerful tool designed for legitimate uses in games and applications that allow automation of inputs. However, it is essential to understand and acknowledge the potential risks involved.
 
-1. **Use at Your Own Risk:** The usage of T.A.G is at your own risk. I, [Your Name], the creator of this project, and ChatGPT from OpenAI, who provided explanations, shall not be held responsible for any consequences, including but not limited to bans, penalties, or any other actions taken against your computer, account, or access.
+1. **Use at Your Own Risk:** The usage of T.A.G is at your own risk. I, [Nikola Džoni Glavinić], the creator of this project, and ChatGPT from OpenAI, who provided explanations, shall not be held responsible for any consequences, including but not limited to bans, penalties, or any other actions taken against your computer, account, or access.
 
 2. **No Malicious Intent:** T.A.G is intended for good purposes only and is not developed or intended for any malicious activities or unfair advantages in any application, including games.
 
