@@ -21,7 +21,11 @@
 
  6. Follow the instructions in each subfolder to calibrate, record, and execute the keystrokes according to your desired actions.
 
- Credits
+    ## New Instructions
+
+    Please Read the `How_To_Execute.md` , this will explain everything in great detail with ease. 😊
+
+ ## Credits
  - Original Project by Nikola Džoni Glavinić
  - Explanation provided by ChatGPT from OpenAI.
 
